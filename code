@@ -1,3 +1,3 @@
-git add "C:\Users\moham\OneDrive\Desktop\projects\Customer Churn Analysis\Project (Customer Churn Prediction).ipynb"
+git add customer_churn_analysis.ipynb
 git commit -m "Added churn analysis notebook"
 git push origin main
