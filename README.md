@@ -40,9 +40,9 @@ The dataset included **100K+ transaction records** extracted from multiple relat
 
 ## Screenshots from ppt
 <img width="500" height="500" alt="Screenshot 2026-03-10 164420" src="https://github.com/user-attachments/assets/9d7123fe-6a9e-4b7b-b8ff-62ea16401621" />
-<img width="856" height="690" alt="Screenshot 2026-03-10 164412" src="https://github.com/user-attachments/assets/2059918c-9983-4c98-a6a2-b9b184064b1b" />
-<img width="887" height="687" alt="Screenshot 2026-03-10 164349" src="https://github.com/user-attachments/assets/a6cc91b4-5cca-4be6-8436-c0fde217e814" />
-<img width="899" height="694" alt="Screenshot 2026-03-10 164340" src="https://github.com/user-attachments/assets/a65ffb87-3a5a-4323-b5a6-e65b678d4fbe" />
+<img width="500" height="500" alt="Screenshot 2026-03-10 164412" src="https://github.com/user-attachments/assets/2059918c-9983-4c98-a6a2-b9b184064b1b" />
+<img width="500" height="500" alt="Screenshot 2026-03-10 164349" src="https://github.com/user-attachments/assets/a6cc91b4-5cca-4be6-8436-c0fde217e814" />
+<img width="500" height="500" alt="Screenshot 2026-03-10 164340" src="https://github.com/user-attachments/assets/a65ffb87-3a5a-4323-b5a6-e65b678d4fbe" />
 
 
 
