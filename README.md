@@ -1,4 +1,5 @@
 # Customer Churn Analysis (SQL + Python)
+Processed and analyzed 100K+ e-commerce transaction records to study customer behavior and churn patterns.
 
 ## Project Overview
 This project analyzes customer churn patterns in an e-commerce platform to identify behavioral factors that lead customers to stop purchasing. The goal is to uncover insights that can help businesses improve customer retention and engagement.
